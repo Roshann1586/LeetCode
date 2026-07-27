@@ -7,7 +7,7 @@ class Solution {
                 weight+=(weights[c-'a']);
             }
             weight%=26;
-            ans+=(char)(97+26-weight-1);
+            ans+=(char)(122-weight);
         }
         return ans;
     }
