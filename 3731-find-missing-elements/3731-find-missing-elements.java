@@ -1,18 +1,18 @@
-import java.util.Arrays;
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
+        boolean[] values = new boolean[101];
+        int smallest=Integer.MAX_VALUE;
+        int largest=Integer.MIN_VALUE;
         ArrayList <Integer> ans = new ArrayList<>();
-        Arrays.sort(nums);
-        int smallest=nums[0];
-        int count=1;
-        for(int i=1;i<nums.length;i++){
-            if((nums[i]^(count+smallest))!=0){
-                while((nums[i]^(count+smallest))!=0){
-                    ans.add(count+smallest);
-                    count++;
-                }
+        for(int i=0;i<nums.length;i++){
+            values[nums[i]]=true;
+            smallest = Math.min(smallest,nums[i]);
+            largest = Math.max(largest,nums[i]);
+        }
+        for(int i=smallest;i<largest;i++){
+            if(!values[i]){
+                ans.add(i);
             }
-            count++;
         }
         return ans;
     }
