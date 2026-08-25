@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Roshann1586/LeetCode/tree/master/0645-set-mismatch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Roshann1586/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3731-find-missing-elements](https://github.com/Roshann1586/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Roshann1586/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Roshann1586/LeetCode/tree/master/0645-set-mismatch) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Roshann1586/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3731-find-missing-elements](https://github.com/Roshann1586/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -34,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Roshann1586/LeetCode/tree/master/0645-set-mismatch) |
+| [3731-find-missing-elements](https://github.com/Roshann1586/LeetCode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
