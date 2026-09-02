@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Roshann1586/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Roshann1586/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Roshann1586/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3838-weighted-word-mapping](https://github.com/Roshann1586/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Roshann1586/LeetCode/tree/master/0645-set-mismatch) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Roshann1586/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Roshann1586/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Roshann1586/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3731-find-missing-elements](https://github.com/Roshann1586/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
