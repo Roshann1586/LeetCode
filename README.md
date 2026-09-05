@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Roshann1586/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3731-find-missing-elements](https://github.com/Roshann1586/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Roshann1586/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/Roshann1586/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Roshann1586/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Roshann1586/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
