@@ -9,8 +9,6 @@ class Solution {
         int maxi=Integer.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
             maxi=Math.max(nums[i],maxi);
-            System.out.println(maxi);
-            System.out.println(minimum[i]);
             if((maxi-minimum[i])<=k){
                 return i;
             }
