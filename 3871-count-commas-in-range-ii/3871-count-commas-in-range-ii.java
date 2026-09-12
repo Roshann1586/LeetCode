@@ -4,10 +4,8 @@ class Solution {
         long count=0;
         while(n-subtractor>0){
             count+=(n-subtractor);
-            for(int i=0;i<3;i++){
-                subtractor*=10;
-                subtractor+=9;
-            }
+            subtractor=(subtractor*1000)+999;
+            
         }
         return count;
     }
