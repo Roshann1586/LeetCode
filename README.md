@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Roshann1586/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Roshann1586/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3871-count-commas-in-range-ii](https://github.com/Roshann1586/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Roshann1586/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Roshann1586/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Roshann1586/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
