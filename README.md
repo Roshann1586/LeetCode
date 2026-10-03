@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Roshann1586/LeetCode/tree/master/0022-generate-parentheses) |
 | [2299-strong-password-checker-ii](https://github.com/Roshann1586/LeetCode/tree/master/2299-strong-password-checker-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Roshann1586/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Roshann1586/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Roshann1586/LeetCode/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Roshann1586/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Roshann1586/LeetCode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Roshann1586/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
