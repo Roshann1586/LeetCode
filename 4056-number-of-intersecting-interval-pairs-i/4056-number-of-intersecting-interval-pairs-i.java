@@ -14,9 +14,8 @@ class Solution {
                 else{
                     right=mid-1;
                 }
-                k=left-i-1;
             }
-            count+=k;
+            count+=(left-i-1);
         }
         return count;
     }
