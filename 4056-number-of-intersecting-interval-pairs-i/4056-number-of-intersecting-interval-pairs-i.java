@@ -1,21 +1,14 @@
+
 class Solution {
     public int countIntersectingIntervals(int[][] intervals) {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
         int count=0;
         for(int i=0;i<intervals.length-1;i++){
-            int left=i;
-            int right=intervals.length-1;
-            int k=0;
-            while(left<=right){
-                int mid = (left + (right-left)/2);
-                if(intervals[i][1]>=intervals[mid][0]){
-                    left=mid+1;
-                }
-                else{
-                    right=mid-1;
+            for(int j=i+1;j<intervals.length;j++){
+                if(intervals[i][1]>=intervals[j][0]){
+                    count++;
                 }
             }
-            count+=(left-i-1);
         }
         return count;
     }
