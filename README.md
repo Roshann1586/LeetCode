@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Roshann1586/LeetCode/tree/master/0645-set-mismatch) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Roshann1586/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshann1586/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Roshann1586/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Roshann1586/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Roshann1586/LeetCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Roshann1586/LeetCode/tree/master/0645-set-mismatch) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshann1586/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Roshann1586/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Roshann1586/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Roshann1586/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/Roshann1586/LeetCode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshann1586/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Roshann1586/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
